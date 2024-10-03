@@ -1,4 +1,6 @@
-const Host = "http://localhost:4000";
+// const Host = "http://localhost:4000";
+const Host = "https://propertykartbackend.onrender.com"
+
 
 export const RegisterUser = `${Host}/register`
 export const LoginUser = `${Host}/login`
