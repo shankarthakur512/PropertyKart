@@ -1,7 +1,6 @@
 import React from 'react'
 import BannerPoperty from '../components/BannerPoperty'
 import About from '../components/About'
-import { Property } from '../../../server/models/Property.model'
 import PropertySection from '../components/PropertySection'
 
 const HomePage = () => {
