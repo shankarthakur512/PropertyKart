@@ -96,21 +96,21 @@ for property search use cities - mumbai , delhi ,jaipur
 
 ## **Screenshots**
 
-### **1. Login Page**
+### **1. Sign Up**
 
-![Login Page](./screenshots/login.png)
+![SignUp Page](https://github.com/shankarthakur512/PropertyKart/blob/main/Screenshot%202024-10-04%20at%201.12.30%E2%80%AFAM.png?raw=true)
 
 ### **2. Property Search Modal**
 
-![Property Search Modal](./screenshots/property-search.png)
+![Property Search Modal](https://github.com/shankarthakur512/PropertyKart/blob/main/Screenshot%202024-10-04%20at%201.13.55%E2%80%AFAM.png?raw=true)
 
 ### **3. Property Listing**
 
-![Property Listing](./screenshots/property-list.png)
+![Property Listing](https://github.com/shankarthakur512/PropertyKart/blob/main/Screenshot%202024-10-04%20at%201.14.36%E2%80%AFAM.png?raw=true)
 
 ### **4. Recommended Properties Section**
 
-![Recommended Properties](./screenshots/recommended-properties.png)
+![Home Page](https://github.com/shankarthakur512/PropertyKart/blob/main/Screenshot%202024-10-04%20at%201.12.30%E2%80%AFAM.png?raw=true)
 
 ---
 
